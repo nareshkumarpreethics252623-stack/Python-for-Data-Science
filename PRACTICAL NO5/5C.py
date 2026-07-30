@@ -1,14 +1,14 @@
 # Practical No. 5 (5c)
-# Name : Your Name
-# Roll No : Your Roll No.
+# Name : Preethi Naresh
+# Roll No : S103
 
 import pandas as pd
 
 print("=" * 40)
 print("PRACTICAL NO. 5 (5c)")
 print("=" * 40)
-print("Name     : Your Name")
-print("Roll No. : Your Roll No.")
+print("Name     : Preethi Naresh ")
+print("Roll No. : S103 ")
 print()
 
 # Create a dictionary
